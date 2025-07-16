@@ -1,0 +1,646 @@
+{
+  "meta": {
+    "nome_aplicacao": "Planejamento Mkt Groove",
+    "versao": "1.0.0",
+    "data_criacao": "2025-07-17",
+    "responsavel": "Rodrigo Canto - Diretor de Marketing e Comunicação",
+    "empresa": "Groove Agência Criativa"
+  },
+  "organizacoes": {
+    "instituto_realize": {
+      "nome": "Instituto Realize",
+      "tipo": "Principal",
+      "logo": "realize-logo.png",
+      "cor_primaria": "#9B59B6",
+      "areas_atuacao": [
+        "Cultura",
+        "Economia Criativa",
+        "Educação",
+        "Inclusão Social",
+        "Direitos Humanos",
+        "Esporte",
+        "Meio Ambiente",
+        "Sustentabilidade"
+      ],
+      "metricas": {
+        "seguidores_atuais": 3050,
+        "meta_seguidores": 4575,
+        "meta_engajamento": "30%",
+        "meta_crescimento": "20% em 6 meses"
+      },
+      "objetivos_smart": [
+        "Crescer 20% seguidores em 6 meses",
+        "40% aumento interações",
+        "30% aumento doações",
+        "2 histórias impacto/mês",
+        "Website MVP até 30/set"
+      ]
+    },
+    "apj": {
+      "nome": "APJ Associação Política Jovem",
+      "tipo": "Demanda Aleatória",
+      "logo": "apj-logo.png",
+      "cor_primaria": "#3498DB",
+      "areas_atuacao": [
+        "Política",
+        "Engajamento Jovem",
+        "Mobilização Social"
+      ],
+      "metricas": {
+        "tempo_resposta": "48 horas úteis",
+        "meta_engajamento": "15%",
+        "tipo_demanda": "Pontual e ágil"
+      }
+    },
+    "criar": {
+      "nome": "CRIAR",
+      "tipo": "Demanda Aleatória",
+      "logo": "criar-logo.png",
+      "cor_primaria": "#27AE60",
+      "areas_atuacao": [
+        "Arte",
+        "Cultura",
+        "Projetos Comunitários"
+      ],
+      "metricas": {
+        "tempo_resposta": "72 horas úteis",
+        "meta_conversao": "10%",
+        "tipo_demanda": "Eventos culturais"
+      }
+    }
+  },
+  "selos_editoriais": {
+    "realize_conecta": {
+      "nome": "Realize Conecta",
+      "cor": "#3498DB",
+      "proposito": "Mostrar interconexão com parceiros, beneficiários e causas",
+      "tipos_conteudo": [
+        "Entrevistas parceiros",
+        "Stories colaboração",
+        "Infográficos rede",
+        "Mapas atuação",
+        "Anúncios parcerias"
+      ],
+      "contribuicao": "Aumenta credibilidade e atrai novos parceiros"
+    },
+    "vozes_impacto": {
+      "nome": "Vozes do Impacto",
+      "cor": "#27AE60",
+      "proposito": "Dar voz aos beneficiários e mostrar transformações",
+      "tipos_conteudo": [
+        "Vídeos depoimentos",
+        "Antes e depois",
+        "Threads histórias",
+        "Entrevistas blog",
+        "Galerias resultados"
+      ],
+      "contribuicao": "Cria conexão emocional e demonstra impacto real"
+    },
+    "por_tras_realizacao": {
+      "nome": "Por Trás da Realização",
+      "cor": "#F39C12",
+      "proposito": "Mostrar bastidores e humanizar a marca",
+      "tipos_conteudo": [
+        "Stories 'um dia na vida'",
+        "Vídeos preparação",
+        "Q&A equipe",
+        "Fotos equipe",
+        "Tours sedes"
+      ],
+      "contribuicao": "Humaniza instituto e constrói confiança"
+    },
+    "realize_explica": {
+      "nome": "Realize Explica",
+      "cor": "#9B59B6",
+      "proposito": "Educar sobre causas e temas complexos",
+      "tipos_conteudo": [
+        "Infográficos explicativos",
+        "Posts 'Você Sabia?'",
+        "Lives especialistas",
+        "Miniaulas vídeo",
+        "Artigos aprofundados"
+      ],
+      "contribuicao": "Posiciona como autoridade e conscientiza público"
+    }
+  },
+  "projetos": [
+    {
+      "id": "EP_LORENA_LY",
+      "nome": "EP LORENA LY",
+      "data_evento": "2025-07-31",
+      "local": "Cuiabá",
+      "osc": "instituto_realize",
+      "status": "Em andamento",
+      "categoria": "Cultura",
+      "responsaveis": {
+        "MKT": [
+          "Rodrigo",
+          "Marcelo"
+        ],
+        "Conferência Estruturas": [
+          "Rodrigo",
+          "Marcelo"
+        ],
+        "Montagem Som": [
+          "Rodrigo",
+          "Marcelo"
+        ]
+      },
+      "cronograma": {
+        "teaser": "2025-07-21",
+        "countdown": "2025-07-28",
+        "evento": "2025-07-31",
+        "agradecimentos": "2025-08-05",
+        "impacto": "2025-08-14"
+      },
+      "conteudo_sugerido": {
+        "selo": "vozes_impacto",
+        "hashtags": [
+          "#EPLorenaLy",
+          "#VibeDiferente",
+          "#InstitutoRealize",
+          "#CulturaMT"
+        ],
+        "cta": "Ouça agora em todas as plataformas! Link na Bio!"
+      }
+    },
+    {
+      "id": "APJ_EM_ACAO",
+      "nome": "APJ EM AÇÃO",
+      "data_evento": "2025-08-01",
+      "local": "Cuiabá - 4 bairros",
+      "osc": "apj",
+      "status": "Planejamento",
+      "categoria": "Política",
+      "responsaveis": {
+        "Capacitação": [
+          "Edilaine",
+          "Sandra"
+        ],
+        "Gestão RH": [
+          "Sandra"
+        ],
+        "MKT": [
+          "Rodrigo",
+          "Marcelo"
+        ],
+        "Eventos/Som": [
+          "Rodrigo",
+          "Marcelo"
+        ]
+      },
+      "cronograma": {
+        "teaser": "2025-07-22",
+        "countdown": "2025-07-29",
+        "evento": "2025-08-01",
+        "agradecimentos": "2025-08-06",
+        "impacto": "2025-08-15"
+      },
+      "conteudo_sugerido": {
+        "selo": "por_tras_realizacao",
+        "hashtags": [
+          "#APJEmAção",
+          "#JovensProtagonistas",
+          "#Cuiabá"
+        ],
+        "cta": "Ainda dá tempo! Vem pra cá!"
+      }
+    },
+    {
+      "id": "REALIZACAO_CUIABA_4",
+      "nome": "4º REALIZAÇÃO CUIABÁ",
+      "data_evento": "2025-08-01",
+      "local": "Cuiabá - 4 bairros",
+      "osc": "instituto_realize",
+      "status": "Planejamento",
+      "categoria": "Social",
+      "responsaveis": {
+        "Capacitação": [
+          "Edilaine",
+          "Sandra"
+        ],
+        "Gestão RH": [
+          "Sandra"
+        ],
+        "MKT": [
+          "Rodrigo",
+          "Marcelo"
+        ],
+        "Eventos/Som": [
+          "Rodrigo",
+          "Marcelo"
+        ]
+      },
+      "cronograma": {
+        "teaser": "2025-07-22",
+        "countdown": "2025-07-29",
+        "evento": "2025-08-01",
+        "agradecimentos": "2025-08-06",
+        "impacto": "2025-08-15"
+      },
+      "conteudo_sugerido": {
+        "selo": "realize_conecta",
+        "hashtags": [
+          "#4RealizaçãoCuiabá",
+          "#TransformaçãoSocial",
+          "#InstitutoRealize"
+        ],
+        "cta": "Participe da transformação!"
+      }
+    },
+    {
+      "id": "PROJETO_CRIAR_CRIAR",
+      "nome": "PROJETO CRIAR - CRIAR",
+      "data_evento": "2025-08-01",
+      "local": "Cuiabá - 4 bairros",
+      "osc": "criar",
+      "status": "Planejamento",
+      "categoria": "Arte",
+      "responsaveis": {
+        "Capacitação": [
+          "Edilaine",
+          "Sandra"
+        ],
+        "Gestão RH": [
+          "Sandra"
+        ],
+        "MKT": [
+          "Rodrigo",
+          "Marcelo"
+        ],
+        "Eventos/Som": [
+          "Rodrigo",
+          "Marcelo"
+        ]
+      },
+      "cronograma": {
+        "teaser": "2025-07-22",
+        "countdown": "2025-07-29",
+        "evento": "2025-08-01",
+        "agradecimentos": "2025-08-06",
+        "impacto": "2025-08-15"
+      },
+      "conteudo_sugerido": {
+        "selo": "vozes_impacto",
+        "hashtags": [
+          "#ProjetoCRIAR",
+          "#ArteEmCuiabá",
+          "#CulturaQueTransforma"
+        ],
+        "cta": "Faça parte dessa revolução cultural!"
+      }
+    },
+    {
+      "id": "BEACH_TENNIS_ARENA",
+      "nome": "2º TORNEIO DE BEACH TENNIS ARENA CÍRCULO",
+      "data_evento": "2025-08-06",
+      "local": "Cuiabá - Círculo Militar",
+      "osc": "instituto_realize",
+      "status": "Planejamento",
+      "categoria": "Esporte",
+      "responsaveis": {
+        "MKT": [
+          "Rodrigo",
+          "Marcelo"
+        ],
+        "Videomaker": [
+          "Rodrigo",
+          "Marcelo"
+        ],
+        "Conferência Estruturas": [
+          "Rodrigo",
+          "Marcelo"
+        ],
+        "Montagem Som": [
+          "Rodrigo",
+          "Marcelo"
+        ]
+      },
+      "cronograma": {
+        "teaser": "2025-07-27",
+        "countdown": "2025-08-03",
+        "evento": "2025-08-06",
+        "agradecimentos": "2025-08-11",
+        "impacto": "2025-08-20"
+      },
+      "conteudo_sugerido": {
+        "selo": "realize_conecta",
+        "hashtags": [
+          "#BeachTennisArena",
+          "#EsporteQueTransforma",
+          "#InstitutoRealize"
+        ],
+        "cta": "Inscreva-se já!"
+      }
+    },
+    {
+      "id": "FESTA_DO_PARI",
+      "nome": "FESTA DO PARI",
+      "data_evento": "2025-08-09",
+      "local": "Barra do Pari - Cuiabá",
+      "osc": "instituto_realize",
+      "status": "Planejamento",
+      "categoria": "Cultura",
+      "responsaveis": {
+        "Contratação Serviços": [
+          "Amarilles",
+          "Maluf"
+        ],
+        "Decoração/Ofícios": [
+          "Amarilles",
+          "Sandra"
+        ],
+        "MKT": [
+          "Rodrigo",
+          "Marcelo"
+        ],
+        "Conferência Estruturas": [
+          "Rodrigo",
+          "Marcelo"
+        ],
+        "Show": [
+          "Maluf"
+        ]
+      },
+      "cronograma": {
+        "teaser": "2025-07-30",
+        "countdown": "2025-08-06",
+        "evento": "2025-08-09",
+        "agradecimentos": "2025-08-14",
+        "impacto": "2025-08-23"
+      },
+      "conteudo_sugerido": {
+        "selo": "vozes_impacto",
+        "hashtags": [
+          "#FestaDoPari",
+          "#CulturaPantaneira",
+          "#InstitutoRealize"
+        ],
+        "cta": "Vem celebrar com a gente!"
+      }
+    },
+    {
+      "id": "COPA_RALINHA_2025",
+      "nome": "COPA RALINHA 2025",
+      "data_evento": "2025-08-07",
+      "local": "Cuiabá - Bairro Dom Aquino",
+      "osc": "instituto_realize",
+      "status": "Planejamento",
+      "categoria": "Esporte",
+      "responsaveis": {
+        "MKT": [
+          "Rodrigo",
+          "Marcelo"
+        ],
+        "Conferência Estruturas": [
+          "Rodrigo",
+          "Marcelo"
+        ]
+      },
+      "cronograma": {
+        "teaser": "2025-07-28",
+        "countdown": "2025-08-04",
+        "evento": "2025-08-07",
+        "agradecimentos": "2025-08-12",
+        "impacto": "2025-08-21"
+      },
+      "conteudo_sugerido": {
+        "selo": "por_tras_realizacao",
+        "hashtags": [
+          "#CopaRalinha2025",
+          "#EsporteComunitário",
+          "#InstitutoRealize"
+        ],
+        "cta": "Venha torcer e participar!"
+      }
+    },
+    {
+      "id": "ARRAIA_XINGU",
+      "nome": "2º ARRAIÁ EU AMO O XINGU",
+      "data_evento": "2025-08-15",
+      "local": "São José do Xingu",
+      "osc": "instituto_realize",
+      "status": "Planejamento",
+      "categoria": "Cultura",
+      "responsaveis": {
+        "MKT": [
+          "Rodrigo",
+          "Marcelo"
+        ],
+        "Conferência Estruturas": [
+          "Rodrigo",
+          "Marcelo"
+        ]
+      },
+      "cronograma": {
+        "teaser": "2025-08-05",
+        "countdown": "2025-08-12",
+        "evento": "2025-08-15",
+        "agradecimentos": "2025-08-20",
+        "impacto": "2025-08-29"
+      },
+      "conteudo_sugerido": {
+        "selo": "realize_conecta",
+        "hashtags": [
+          "#ArraiáXingu",
+          "#CulturaPantaneira",
+          "#InstitutoRealize"
+        ],
+        "cta": "Vem dançar quadrilha conosco!"
+      }
+    },
+    {
+      "id": "DVD_VOZES_MT",
+      "nome": "DVD VOZES MT",
+      "data_evento": "2025-09-08",
+      "local": "Cuiabá - Malcom Pub",
+      "osc": "instituto_realize",
+      "status": "Pré-produção",
+      "categoria": "Cultura",
+      "responsaveis": {
+        "MKT": [
+          "Rodrigo",
+          "Marcelo"
+        ],
+        "Conferência Estruturas": [
+          "Rodrigo",
+          "Marcelo"
+        ],
+        "Locações": [
+          "Maluf"
+        ]
+      },
+      "cronograma": {
+        "teaser": "2025-08-29",
+        "countdown": "2025-09-05",
+        "evento": "2025-09-08",
+        "agradecimentos": "2025-09-13",
+        "impacto": "2025-09-22"
+      },
+      "conteudo_sugerido": {
+        "selo": "vozes_impacto",
+        "hashtags": [
+          "#DVDVozesMT",
+          "#MúsicaAutoral",
+          "#InstitutoRealize"
+        ],
+        "cta": "Prestigie os talentos locais!"
+      }
+    },
+    {
+      "id": "TORNEIO_PASSAREDO",
+      "nome": "1º TORNEIO PASSAREDO SHOW DE BOLA",
+      "data_evento": "2025-10-11",
+      "local": "Cuiabá - Jardim Passaredo",
+      "osc": "instituto_realize",
+      "status": "Planejamento",
+      "categoria": "Esporte",
+      "responsaveis": {
+        "MKT": [
+          "Rodrigo",
+          "Marcelo"
+        ],
+        "Videomaker": [
+          "Rodrigo",
+          "Marcelo"
+        ],
+        "Conferência Estruturas": [
+          "Rodrigo",
+          "Marcelo"
+        ],
+        "Montagem Som": [
+          "Rodrigo",
+          "Marcelo"
+        ]
+      },
+      "cronograma": {
+        "teaser": "2025-10-01",
+        "countdown": "2025-10-08",
+        "evento": "2025-10-11",
+        "agradecimentos": "2025-10-16",
+        "impacto": "2025-10-25"
+      },
+      "conteudo_sugerido": {
+        "selo": "realize_conecta",
+        "hashtags": [
+          "#TorneioPassaredo",
+          "#ShowDeBola",
+          "#InstitutoRealize"
+        ],
+        "cta": "Inscreva seu time!"
+      }
+    }
+  ],
+  "analise_competitiva": {
+    "instituto_inca": {
+      "nome": "Instituto INCA",
+      "seguidores": 6729,
+      "publicacoes": 2145,
+      "fundacao": "2005",
+      "recurso_movimentado": "R$ 30 milhões",
+      "pessoas_atendidas": "100.000+",
+      "pontos_fortes": [
+        "Storytelling comunitário",
+        "Portfólio diversificado",
+        "Tradição"
+      ],
+      "areas_atuacao": [
+        "Inclusão",
+        "Cidadania",
+        "Ação Social",
+        "Cinema"
+      ]
+    },
+    "movimento_vambora": {
+      "nome": "Movimento Vambora",
+      "seguidores": 5244,
+      "publicacoes": 602,
+      "fundacao": "N/A",
+      "recurso_movimentado": "N/A",
+      "pessoas_atendidas": "N/A",
+      "pontos_fortes": [
+        "Conteúdo aspiracional",
+        "Foco em hip-hop",
+        "Festivais"
+      ],
+      "areas_atuacao": [
+        "Esporte",
+        "Lazer",
+        "Cultura",
+        "Educação",
+        "Tecnologia"
+      ]
+    },
+    "acuba": {
+      "nome": "ACUBÁ",
+      "seguidores": 529,
+      "publicacoes": 542,
+      "fundacao": "1996",
+      "recurso_movimentado": "N/A",
+      "pessoas_atendidas": "N/A",
+      "pontos_fortes": [
+        "Arte-educação",
+        "Projetos culturais",
+        "Experiência"
+      ],
+      "areas_atuacao": [
+        "Cultura",
+        "Arte",
+        "Meio Ambiente",
+        "Turismo",
+        "Educação",
+        "Esporte"
+      ]
+    },
+    "instituto_realize": {
+      "nome": "Instituto Realize",
+      "seguidores": 3050,
+      "publicacoes": 549,
+      "fundacao": "2023",
+      "recurso_movimentado": "Em crescimento",
+      "pessoas_atendidas": "Em crescimento",
+      "pontos_fortes": [
+        "Portfólio multidisciplinar",
+        "Projetos diversos",
+        "Inovação"
+      ],
+      "areas_atuacao": [
+        "Cultura",
+        "Esporte",
+        "Social",
+        "Meio Ambiente",
+        "Educação",
+        "Direitos Humanos"
+      ]
+    }
+  },
+  "metricas_performance": {
+    "kpis_realize": {
+      "reconhecimento_marca": {
+        "alcance_mensal": 50000,
+        "impressoes_mensal": 150000,
+        "crescimento_seguidores": "20%",
+        "mencoes_marca": 25
+      },
+      "engajamento": {
+        "taxa_engajamento": "3%",
+        "interacoes_mensais": 1500,
+        "compartilhamentos": 300,
+        "comentarios": 450
+      },
+      "website": {
+        "visitantes_unicos": 5000,
+        "tempo_sessao": "2:30",
+        "taxa_conversao": "2.5%",
+        "bounce_rate": "45%"
+      }
+    },
+    "metas_2025": {
+      "seguidores_meta": 4575,
+      "engajamento_meta": 30,
+      "doacao_aumento": 30,
+      "historias_impacto": 24,
+      "parcerias_novas": 15
+    }
+  }
+}
